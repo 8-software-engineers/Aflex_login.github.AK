@@ -34,7 +34,7 @@ body , html {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(Aflex_login.github.AK/media/Aflex\ image.jpeg);
+    background-image: url(/Aflex_login.github.AK/media/Aflex\ image.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
